@@ -1,6 +1,6 @@
-:･ﾟ✧ Olá! Sou Alex!  
+:･ﾟ✧ Olá! Seja bem-vindo ao meu perfil!  
 
-✧ **Desenvolvedor em formação e apaixonado por tecnologia!  
+✧ **Desenvolvedor em formação.
 ** Foco em programação Java.  
 ** Sempre trabalhando no desenvolvimento de projetos que unem criatividade e lógica. ** ✧  
 
@@ -12,10 +12,9 @@
 ## ✩✩ 📊 Estatísticas do GitHub:
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNogueiraPereira&show_icons=true&theme=radical)  
 
-
 ## ✩✩ ✨ Meus contatos
 -✉️ [Email](mailto:alexyenogueira@gmail.com)  
--💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+-💼 [LinkedIn](https://www.linkedin.com/in/alex-nogueira-pereira-27976a235)
 <!---
 AlexNogueiraPereira/AlexNogueiraPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
