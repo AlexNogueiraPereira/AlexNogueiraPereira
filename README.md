@@ -7,7 +7,7 @@
 ## ✩✩ 🛠️ Tecnologias e Ferramentas:
 ➤  ![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)  
 ➤  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-➤  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+➤  ![PHP](https://img.shields.io/badge/PHP-cca9dd?style=for-the-badge&logo=php&logoColor=white)  
 
 ## ✩✩ 📊 Estatísticas do GitHub:
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNogueiraPereira&show_icons=true&theme=radical)  
