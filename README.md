@@ -10,7 +10,7 @@
 ➤  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ## ✩✩ 📊 Estatísticas do GitHub:
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)  
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNogueiraPereira&show_icons=true&theme=radical)  
 
 
 ## ✩✩ ✨ Meus contatos
