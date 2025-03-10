@@ -3,16 +3,16 @@
 ✧ **Desenvolvedor em formação e apaixonado por tecnologia!
 ** Sempre trabalhando no desenvolvimento de projetos que unem criatividade e lógica. ** 
 
-✩✩ 🛠️ Tecnologias e Ferramentas:
+## ✩✩ 🛠️ Tecnologias e Ferramentas:
 ➤  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ➤  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ➤  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-✩✩ 📊 Estatísticas do GitHub:
+## ✩✩ 📊 Estatísticas do GitHub:
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
 
 
-✩✩ ✨ Meus contatos
+## ✩✩ ✨ Meus contatos
 ✉️ [Email](mailto:alexyenogueira@gmail.com) 
 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
 <!---
