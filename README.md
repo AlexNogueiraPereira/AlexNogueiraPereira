@@ -5,7 +5,7 @@
 ** Sempre trabalhando no desenvolvimento de projetos que unem criatividade e lógica. ** ✧  
 
 ## ✩✩ 🛠️ Tecnologias e Ferramentas:
-➤  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+➤  ![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)  
 ➤  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ➤  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
